@@ -1,0 +1,17 @@
+{
+  "name": "citrix-api",
+  "version": "1.0.0",
+  "description": "Citrix Digital API server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "author": "Promise Masimba",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "nodemon": "^2.0.7"
+  }
+}
